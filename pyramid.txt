@@ -1,4 +1,2 @@
 # Pyramid Collaboration File
 This is the OG file
-
-This is my contribution
